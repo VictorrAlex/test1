@@ -12,7 +12,6 @@ using namespace std;
 int main() {
 
 	cout << "tttttttttttttt" << endl; // prints !!!Hello World!!!
-	int x = 5;
 
 	return 0;
 }
